@@ -1,18 +1,18 @@
-<h1 align="left">console.log("Hey 👋 What's up?");</h1>
+<h1 align="right">console.log("Hey 👋 What's up?");</h1>
 
 ###
 
-<h3 align="left">My name is Germán Moll and I'm a Frontend Web Developer!</h3>
+<h3 align="right">My name is Germán Moll and I'm a Frontend Web Developer!</h3>
 
 ###
 💻 I'm currenty working at CMIFR and independently.
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="right">I code with</h2>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="40" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -26,11 +26,11 @@
 
 ###
 
-<h3 align="left">But my stack also includes</h3>
+<h3 align="right">But my stack also includes</h3>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="40" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
@@ -44,7 +44,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://skillicons.dev/icons?i=redux" height="35" alt="redux logo"  />
   <img width="40" />
   <img src="https://skillicons.dev/icons?i=materialui" height="35" alt="materialui logo"  />
@@ -60,15 +60,14 @@
 
 ###
 
-<h2 align="left">Follow me in</h2>
+<h2 align="right">Follow me in</h2>
 
 ###
 
-<div align="left">
+<div align="right">
   <a href="https://linkedin.com/in/germanmoll" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
-<iframe src="https://www.google.com" width="400px" height="300px"></iframe>
